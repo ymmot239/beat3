@@ -37,6 +37,9 @@
     "name": "MainIdle",
     "path": "sprites/MainIdle/MainIdle.yy",
   },
-  "spriteMaskId": null,
+  "spriteMaskId": {
+    "name": "MainIdlehb",
+    "path": "sprites/MainIdlehb/MainIdlehb.yy",
+  },
   "visible": true,
 }

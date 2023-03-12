@@ -3,7 +3,10 @@
 
 state = PLAYERSTATE.FREE;
 hitbyattack = ds_list_create();
-facing = "right";
+
+
+punchCounter = 0;
+
 
 enum PLAYERSTATE{
 	FREE,
