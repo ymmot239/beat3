@@ -4,7 +4,7 @@
   "name": "enemy1idleright",
   "bbox_bottom": 63,
   "bbox_left": 8,
-  "bbox_right": 55,
+  "bbox_right": 63,
   "bbox_top": 0,
   "bboxMode": 0,
   "collisionKind": 1,
