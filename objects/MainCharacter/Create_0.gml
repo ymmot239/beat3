@@ -6,10 +6,12 @@ hitbyattack = ds_list_create();
 
 
 punchCounter = 0;
+dashCounter = 0;
 
 
 enum PLAYERSTATE{
 	FREE,
 	ATTACK_PUNCH,
-	ATTACK_COMBO
+	ATTACK_KICK,
+	DASH
 }

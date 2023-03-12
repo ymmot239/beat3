@@ -16,7 +16,7 @@
     {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"e1ac222d-d15f-43e9-a295-7864e3a064a7",},
     {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"bc88a179-8b72-4531-b339-a65f0881d1b1",},
     {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"e09eed66-c68b-4f25-abd1-690bbe6f6fcb",},
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"647da555-d94f-4b0e-9270-cdc11d095997",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"b4755bbf-b509-46b5-9f5b-fb635fd60b77",},
   ],
   "gridX": 0,
   "gridY": 0,
@@ -28,8 +28,8 @@
   "nineSlice": null,
   "origin": 0,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "playerattacks",
+    "path": "folders/playerattacks.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {
@@ -60,7 +60,7 @@
             {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"e1ac222d-d15f-43e9-a295-7864e3a064a7","path":"sprites/rightPunch/rightPunch.yy",},},},"Disabled":false,"id":"cdfeff99-af5c-46c8-bc18-662d644d4244","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
             {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"bc88a179-8b72-4531-b339-a65f0881d1b1","path":"sprites/rightPunch/rightPunch.yy",},},},"Disabled":false,"id":"77ffb884-0c9c-4561-9ca7-e00058b14917","IsCreationKey":false,"Key":1.0,"Length":1.0,"Stretch":false,},
             {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"e09eed66-c68b-4f25-abd1-690bbe6f6fcb","path":"sprites/rightPunch/rightPunch.yy",},},},"Disabled":false,"id":"1d28aeb2-9653-4cab-ae25-2dd779ffb1e9","IsCreationKey":false,"Key":2.0,"Length":1.0,"Stretch":false,},
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"647da555-d94f-4b0e-9270-cdc11d095997","path":"sprites/rightPunch/rightPunch.yy",},},},"Disabled":false,"id":"58c7bf53-975c-4959-8577-a8be820c0478","IsCreationKey":false,"Key":3.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"b4755bbf-b509-46b5-9f5b-fb635fd60b77","path":"sprites/rightPunch/rightPunch.yy",},},},"Disabled":false,"id":"346ee421-7014-41d5-b85d-d0218f53e017","IsCreationKey":false,"Key":3.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,

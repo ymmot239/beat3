@@ -16,7 +16,7 @@
     {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"e1ac222d-d15f-43e9-a295-7864e3a064a7",},
     {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"bc88a179-8b72-4531-b339-a65f0881d1b1",},
     {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"e09eed66-c68b-4f25-abd1-690bbe6f6fcb",},
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"647da555-d94f-4b0e-9270-cdc11d095997",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"85c0ed07-365f-4978-af5c-2084a0d6e271",},
   ],
   "gridX": 0,
   "gridY": 0,
@@ -28,8 +28,8 @@
   "nineSlice": null,
   "origin": 0,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "playerattacks",
+    "path": "folders/playerattacks.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {
@@ -60,7 +60,7 @@
             {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"e1ac222d-d15f-43e9-a295-7864e3a064a7","path":"sprites/leftPunch/leftPunch.yy",},},},"Disabled":false,"id":"058c3d1f-5c57-4b61-a3a5-ff44e9ef6325","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
             {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"bc88a179-8b72-4531-b339-a65f0881d1b1","path":"sprites/leftPunch/leftPunch.yy",},},},"Disabled":false,"id":"5b1d5f26-65a4-4f6c-a535-a976e14f7fda","IsCreationKey":false,"Key":1.0,"Length":1.0,"Stretch":false,},
             {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"e09eed66-c68b-4f25-abd1-690bbe6f6fcb","path":"sprites/leftPunch/leftPunch.yy",},},},"Disabled":false,"id":"cccf71e8-f1fe-48a1-a705-bca71b055224","IsCreationKey":false,"Key":2.0,"Length":1.0,"Stretch":false,},
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"647da555-d94f-4b0e-9270-cdc11d095997","path":"sprites/leftPunch/leftPunch.yy",},},},"Disabled":false,"id":"448e8d45-4293-437f-b093-b1afda2f4666","IsCreationKey":false,"Key":3.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"85c0ed07-365f-4978-af5c-2084a0d6e271","path":"sprites/leftPunch/leftPunch.yy",},},},"Disabled":false,"id":"52e36427-8811-48dd-b0c0-c4f68bf4dc5e","IsCreationKey":false,"Key":3.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,

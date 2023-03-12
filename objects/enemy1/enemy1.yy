@@ -2,7 +2,9 @@
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
   "name": "enemy1",
-  "eventList": [],
+  "eventList": [
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":true,},
+  ],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
@@ -23,12 +25,17 @@
   "physicsShape": 1,
   "physicsShapePoints": [],
   "physicsStartAwake": true,
-  "properties": [],
-  "solid": false,
+  "properties": [
+    {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"hp","filters":[],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"1","varType":1,},
+  ],
+  "solid": true,
   "spriteId": {
-    "name": "enemy1idledown",
-    "path": "sprites/enemy1idledown/enemy1idledown.yy",
+    "name": "enemy1down",
+    "path": "sprites/enemy1down/enemy1down.yy",
   },
-  "spriteMaskId": null,
+  "spriteMaskId": {
+    "name": "enemy1downhb",
+    "path": "sprites/enemy1downhb/enemy1downhb.yy",
+  },
   "visible": true,
 }
